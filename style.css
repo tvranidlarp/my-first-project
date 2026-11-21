@@ -1,0 +1,17 @@
+body{font-family:Arial, Helvetica, sans-serif;
+background-color:aquamarine;
+color:navy;
+display:flex ;
+justify-content:center; 
+padding: 50px 20px;}
+.test{background-color:aquamarine;}
+nav{margin: bottom 20px;}
+h1{color: darkcyan;}
+ul{line-height:1.8;}
+details{margin-top: 20px;
+background-color:blue;
+padding:12px 16px;
+border-radius: 10px;
+cursor:pointer}
+summary{font-weight: bold;
+color: cyan;}
