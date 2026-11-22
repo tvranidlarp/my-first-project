@@ -4,11 +4,11 @@ A multi page website built with HTML and CSS  for Hack Club Crossroads about the
 The project has a separate page for a short introduction a page for my hobbies and a page where I selected my favorites out of those with a rating
 ## More in depth regarding the pages and features
 * The home page is attributed to index.html 
-* The home page includes a short personal introduction visual skill progress according to my own goals what I feel like how much i know using <progress> elements.
-* a fun fact about me included using <details> and <summary> tags.
+* The home page includes a short personal introduction visual skill progress according to my own goals what I feel like how much i know using progress elements.
+* a fun fact about me included using details and summary tags.
 ## Hobbies page
 * Categorized sections for my favorite games and media and personal interests.
-* Two column list layout and bordered <section> cards.
+* Two column list layout and bordered section cards.
 ## Favorites page
 * A ranking of the stuff mentioned on the second page using <table>.
 * Custom CSS badges for each category under the names of ten, unbeatable, and tuff which stands for the 8/10 rating.
